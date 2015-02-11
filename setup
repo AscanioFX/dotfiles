@@ -1,0 +1,4 @@
+Symlink stuff to home directory:
+    ln -s {/path/to/file-name} {link-name}
+eg.
+    ln -s ./Documents/dotfiles/vimrc .vimrc
