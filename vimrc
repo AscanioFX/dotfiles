@@ -29,6 +29,7 @@ filetype off
     Plugin 'ervandew/supertab'
     Plugin 'kien/ctrlp.vim'
     Plugin 'scrooloose/nerdcommenter'
+    Plugin 'bling/vim-airline'
     Plugin 'scrooloose/syntastic'
     Plugin 'wombat256.vim'
     if iCanHazVundle == 0
@@ -42,7 +43,7 @@ filetype off
 " mkdir -p ~/.vim/colors && cd ~/.vim/colors
 " wget -O wombat256mod.vim http://www.vim.org/scripts/download_script.php?src_id=13400
   set t_Co=256
-" set term=xterm-256color
+  set term=xterm-256color
   color wombat256mod
 " color distinguished
 
