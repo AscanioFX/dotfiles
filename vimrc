@@ -30,7 +30,7 @@ filetype off
     Plugin 'kien/ctrlp.vim'
     Plugin 'scrooloose/nerdcommenter'
     Plugin 'scrooloose/syntastic'
-    Plugin 'vim-scripts/wombat256.vim'
+    Plugin 'wombat256.vim'
     if iCanHazVundle == 0
         echo "Installing Bundles, please ignore key map error messages"
         echo ""
